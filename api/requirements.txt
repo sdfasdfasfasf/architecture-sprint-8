@@ -1,0 +1,8 @@
+fastapi==0.115.5
+fastapi-cli==0.0.5
+click==8.1.7
+cryptography==44.0.0
+httpx==0.28.0
+python-keycloak==4.7.3
+python-multipart==0.0.18
+uvicorn==0.32.1
